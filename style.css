@@ -1,0 +1,16 @@
+body {
+    background-image: url("kaidan.png");
+    background-position: 0% 0%;
+    background-size: cover;
+}
+h1 {
+    color: black;
+    font-size: 40px;
+    text-align: left;
+    font-family: serif;
+}
+a {
+    font-size: 40px;
+    font-family: serif;
+    color: black;   
+}
