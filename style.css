@@ -2,6 +2,8 @@ body {
     background-image: url("kaidan.png");
     background-position: 0% 0%;
     background-size: cover;
+    height: 100%;
+    overflow-y: scroll;
 }
 h1 {
     color: black;
@@ -13,4 +15,16 @@ a {
     font-size: 40px;
     font-family: serif;
     color: black;   
+}
+#contents {
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+}
+.full-img{
+    background-image:url(kaidan.png);
+    background-position:center bottom;  
+    background-size:cover;                     
+    width:100%;                                 
+    height:100%;
 }
